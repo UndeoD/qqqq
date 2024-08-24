@@ -1,1 +1,0 @@
-[{"model": "goods.categories", "pk": 5, "fields": {"name": "All pictures", "slug": "all-pictures"}}, {"model": "goods.categories", "pk": 6, "fields": {"name": "Classic", "slug": "classic"}}, {"model": "goods.categories", "pk": 7, "fields": {"name": "AI version", "slug": "ai-version"}}]
